@@ -1,0 +1,13 @@
+//First Example
+var num = 10;
+document.write('Hello, this is my first challenge and I will do it '+ num + ' times.'+'<br>' + 'I will do it, I will learn Javascript');
+document.write('<br>');
+//Second Example
+var num2 = 10;
+var text1 = 'Hello, this is my first challenge and I will do it';
+var text2 = ' times.';
+var text3 = ' I will do it, I will learn Javascript';
+
+document.write(text1 + num2 + text2);
+document.write('<br>');
+document.write(text3);
